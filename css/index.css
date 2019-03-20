@@ -1,0 +1,30 @@
+.aa{
+	position: relative;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #999;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 6px;
+    -webkit-box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    outline: 0;
+    margin-top: 40%;
+}
+
+.btn1{
+	    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    width: 32%;
+    margin-left: 6%;
+      margin-top: 4%;
+}
+
+.btn2{
+	    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    width: 32%;
+    margin-left: 59%;
+     margin-top: -15%;
+}

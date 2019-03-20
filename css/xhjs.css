@@ -1,0 +1,112 @@
+html{
+	background-color: white;
+}
+
+body {
+min-width: 320px;
+max-width: 640px;
+margin: 0 auto;
+color: #333;
+padding: 0;
+font-family: "Microsoft Yahei";
+text-align: center;
+}
+.container {
+/*width: 100%;*/
+border: 1px solid #ccc;
+}
+.swiper1 {
+width: 100%;
+}
+.swiper1 .selected {
+color: #ec5566;
+border-bottom: 2px solid #ec5566;
+}
+.swiper1 .swiper-slide {
+text-align: center;
+font-size: 16px;
+height: 50px;
+/* Center slide text vertically */
+display: -webkit-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+-webkit-box-pack: center;
+-ms-flex-pack: center;
+-webkit-justify-content: center;
+justify-content: center;
+-webkit-box-align: center;
+-ms-flex-align: center;
+-webkit-align-items: center;
+align-items: center;
+cursor: pointer;
+}
+.swiper2 {
+width: 100%;
+}
+.swiper2 .swiper-slide {
+height: calc(100vh - 50px);
+background-color: #ccc;
+color: #fff;
+text-align: center;
+box-sizing: border-box !important;
+overflow-x: hidden !important;
+}
+
+body {
+min-width: 320px;
+max-width: 640px;
+margin: 0 auto;
+color: #333;
+padding: 0;
+font-family: "Microsoft Yahei";
+text-align: center;
+}
+.container {
+/*width: 100%;*/
+border: 1px solid #ccc;
+}
+.swiper1 {
+width: 100%;
+color: #7D7D7D;
+font-size: 15px;
+}
+.swiper1 .selected {
+color: #ec5566;
+border-bottom: 2px solid #ec5566;
+}
+.swiper1 .swiper-slide {
+text-align: center;
+font-size: 15px;
+height: 50px;
+/* Center slide text vertically */
+display: -webkit-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+-webkit-box-pack: center;
+-ms-flex-pack: center;
+-webkit-justify-content: center;
+justify-content: center;
+-webkit-box-align: center;
+-ms-flex-align: center;
+-webkit-align-items: center;
+align-items: center;
+cursor: pointer;
+}
+.swiper2 {
+width: 100%;
+}
+.swiper2 .swiper-slide {
+height: calc(100vh - 50px);
+background-color: #ccc;
+color: #fff;
+text-align: center;
+box-sizing: border-box !important;
+overflow-x: hidden !important;
+}
+
+a{
+	text-decoration: none;
+	color: #737383;
+}
